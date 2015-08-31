@@ -43,10 +43,10 @@
   changed = yellow
   untracked = cyan
 [user]
-  name = Will Mayner
-  email = wmayner@gmail.com
+  name = Anand Ramamoorthy
+  email = valvilraman@yahoo.co.in
 [core]
-  excludesfile = /Users/will/.gitignore
+  excludesfile = ~/.gitignore
   autocrlf = input
 [credential]
   helper = osxkeychain

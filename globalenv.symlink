@@ -1,7 +1,7 @@
 # Make Vim the default editor
-export EDITOR=vim
+export EDITOR='atom'
 export VISUAL='vim'
-export DEFAULT_USER="will"
+export DEFAULT_USER="anand"
 # Keep public, versioned executables in ~/dotfiles/bin
 export PATH=$HOME/dotfiles/bin:$PATH:
 # Shortcut to aliases
