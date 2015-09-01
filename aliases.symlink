@@ -89,7 +89,7 @@
   # Shortcut for Python interpreter
   alias p='python'
   # Shortcut for IPython intepreter
-  alias ip='ipython --matplotlib'
+  alias ip='ipython'
   # edit .hgrc
   alias vhgrc="vim ~/.hgrc"
   # cd dev
